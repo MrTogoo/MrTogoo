@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Aymane Bendalaa  
 
-**🔹 DFIR Malware Analysis | 🔹 Penetration Tester | 🔹 Threat Hunter**  
+**🔹 DFIR && Malware Analysis | 🔹 Threat Hunter |🔹 Penetration Tester**  
 
 ## 🔐 About Me  
 
