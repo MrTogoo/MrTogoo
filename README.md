@@ -13,7 +13,7 @@ I specialize in securing digital infrastructures, leveraging open-source tools t
 
 ### 🛠 Tech Stack  
 **🚀 Languages:** Python, C, ASM  
-**🔧 Tools:** Wireshark, Zeek, Suricata, Snort, Sysmon, Velociraptor, Wazuh, MISP, TheHive, pfSense  
+**🔧 Tools:** Wireshark, Volatility, FTK, Autopsy, IPS , Velociraptor, Wazuh, pfSense  
 
 ## 🚀 Featured Projects  
 
@@ -38,11 +38,7 @@ Using Velociraptor for forensic analysis and Windows incident response.
 ## ⚡ Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A6?style=flat-square&logo=wireshark&logoColor=white)
-![Zeek](https://img.shields.io/badge/Zeek-FF5733?style=flat-square&logo=zeek&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-2D6DB2?style=flat-square&logo=suricata&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-CC0000?style=flat-square&logo=snort&logoColor=white)
 ![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Velociraptor](https://img.shields.io/badge/Velociraptor-008080?style=flat-square&logo=velociraptor&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-5A9?style=flat-square&logo=wazuh&logoColor=white)
@@ -59,5 +55,3 @@ Using Velociraptor for forensic analysis and Windows incident response.
 ## 📫 Let's Connect!  
 - 📧 **Email:** [aymanebendalaa@gmail.com](mailto:aymanebendalaa@gmail.com)  
 - 🔗 **LinkedIn:** [Aymane Bendalaa](https://www.linkedin.com/in/aymane-bendalaa-001149241/)  
-
-> 💡 *"The best way to predict the future is to create it."* – Peter Drucker  
