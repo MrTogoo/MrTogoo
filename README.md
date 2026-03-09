@@ -35,23 +35,6 @@ Using Velociraptor for forensic analysis and Windows incident response.
 
 ---
 
-## ⚡ Skills & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A6?style=flat-square&logo=wireshark&logoColor=white)
-![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Velociraptor](https://img.shields.io/badge/Velociraptor-008080?style=flat-square&logo=velociraptor&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-5A9?style=flat-square&logo=wazuh&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-1A1A1A?style=flat-square&logo=burp-suite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-3E8B8B?style=flat-square&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-FF0000?style=flat-square&logo=nmap&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-6C6C6C?style=flat-square&logo=nikto&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-4D4D4D?style=flat-square&logo=hydra&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-FF7F00?style=flat-square&logo=go&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-404040?style=flat-square&logo=john-the-ripper&logoColor=white)
-
----
-
 ## 📫 Let's Connect!  
 - 📧 **Email:** [aymanebendalaa@gmail.com](mailto:aymanebendalaa@gmail.com)  
 - 🔗 **LinkedIn:** [Aymane Bendalaa](https://www.linkedin.com/in/aymane-bendalaa-001149241/)  
